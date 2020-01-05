@@ -1,3 +1,11 @@
+/*
+software : spark ar by facebook
+code by : kavin kumar aka rbkavin
+website: https://rbkavin.in
+instagram : instagram.com/rbkavin
+*/
+
+
 const s = require("Scene");
 const t = require("TouchGestures");
 const m = require("Materials");
